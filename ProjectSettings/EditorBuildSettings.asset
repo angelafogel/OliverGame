@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Menu.unity
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+  - enabled: 1
+    path: Assets/Levels/GameOver.unity
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+  - enabled: 1
+    path: Assets/Levels/Level2Canvas.unity
+  - enabled: 1
+    path: Assets/Levels/Level2Complete.unity
+  - enabled: 1
+    path: Assets/Levels/Information1.unity
+  - enabled: 1
+    path: Assets/Levels/Information2.unity

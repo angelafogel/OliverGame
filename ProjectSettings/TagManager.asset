@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - BigBalloon
+  - LittleBalloon
+  - AstroidLarge
+  - AstroidSmall
+  - MovingPlatform
+  - DeathGround
+  - Player1
+  - AstriodSmall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Balloons
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 462502971
+    locked: 0
+  - name: Balloons
+    uniqueID: 3550888195
+    locked: 0
+  - name: Player
+    uniqueID: 2879895595
+    locked: 0

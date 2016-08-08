@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CountManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAACAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\CountManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyCollectibles" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAARBABAAAABACMAAKAQAAAAJEgEAAAAIASBAkAIAIA=</HashCode>
+      <FileName>Assets\Scrpts\DestroyCollectibles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyCollectibles2" Collapsed="true">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAARBAJAAAABACIAAKAAAAAAJFAEAAAAIQCBAkAIAII=</HashCode>
+      <FileName>Assets\Scrpts\DestroyCollectibles2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyGOall" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAACAAAAAAAAAAAAAAEAAQAABAiAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scrpts\DestroyGOall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyMe">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\DestroyMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FadeIn" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\FadeIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverMenu">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAQAAAAQAAAAABAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\GameOverMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Info1Scene">
+    <Position X="9.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scrpts\Info1Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level2Menu">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAACAAAAAAAQAAAAAAAAAAAAAQAAAAAAJAAAA=</HashCode>
+      <FileName>Assets\Scrpts\Level2Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MENUButton">
+    <Position X="14" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAACAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\MENUButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="menuScript">
+    <Position X="11.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAARAAAAACAAFAAAoAAAAABBAgCAAAAAAAAAAAgAIAA=</HashCode>
+      <FileName>Assets\Scrpts\menuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickListMgr">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PickListMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUpClass">
+    <Position X="4" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAgAAAAAAQAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PickUpClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUpList">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PickUpList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUpMgr">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PickUpMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformPath" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABACAACAAAAAAAAAAAAEAAAAAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PlatformPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBehaviorManager" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PlayerBehaviorManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerControl" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAABAAAAAAAAAAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="5.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAQAAAAAQAIAAAAAAAAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scrpts\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreMgr2">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAQAAAAAQAIAAAAAAAAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scrpts\ScoreMgr2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnMultipleObj">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAAQgGAAAAAAAAEACAQEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\SpawnMultipleObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnNeg" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAAQgGAAAAAAAAEACAQEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrpts\SpawnNeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
